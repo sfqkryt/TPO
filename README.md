@@ -298,3 +298,7 @@ excel
 ## 8. Приложения (Attachments)
 - `/attachments/screenshot_bug01.png` — Скриншот баг-репорта "Галочка не отображается"  
 - `/attachments/screenshot_bug02.png` — Скриншот баг-репорта "Фильтр некорректен"  
+
+
+TEST MERGE 
+TEST PR 
